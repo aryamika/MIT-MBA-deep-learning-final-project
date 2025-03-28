@@ -1,6 +1,6 @@
 # Detecting Fake Job Postings with Deep Learning
 
-Welcome to our GitHub repository! Here, we've documented our journey tackling the critical issue of fake job postings using machine learning and deep learning techniques. We created models that accurately identify genuine job ads, scam postings, and deceptive "ghost jobs."
+Here I've documented my journey tackling the critical issue of fake job postings using machine learning and deep learning techniques. My three teamates and I created models that accurately identify genuine job ads, scam postings, and deceptive "ghost jobs."
 
 ## Why It Matters
 Fake job postings negatively affect job seekers and employers alike:
